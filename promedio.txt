@@ -1,0 +1,2 @@
+El nombre del estudiante es Robinson
+Ha obtenido un promedio es 4
